@@ -3,6 +3,14 @@ Instructor is incredible and can be use for a wide range of tasks. This repo con
 
 Step through these in order to see increasingly complex examples. Compare the differences between OpenAI and Groq. Note that these all use Chat Completions rather than Assistants API.
 
+## Set up Google Colab
+You'll need API keys for both OpenAI and Groq. Save them as individual secrets in Google Colab. When you run the examples, you'll need to grant access to the secret keys.
+
+Secret key names:
+- GROQ_API_KEY from https://console.groq.com/keys
+- OPENAI_API_KEY from https://platform.openai.com/account/api-keys
+
+
 ## Examples to try in Google Colab
 
 [1_simple_data_extraction](https://colab.research.google.com/github/pgahq/instructor-groq-openai-llm-examples/blob/main/1_simple_data_extraction.ipynb)  
