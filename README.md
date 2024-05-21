@@ -13,7 +13,8 @@ Secret key names:
 
 ## Examples to try in Google Colab
 
-* [1_simple_data_extraction](https://colab.research.google.com/github/pgahq/instructor-groq-openai-llm-examples/blob/main/1_simple_data_extraction.ipynb)  
+* [1_simple_data_extraction](https://colab.research.google.com/github/pgahq/instructor-groq-openai-llm-examples/blob/main/1_simple_data_extraction.ipynb)
+* [1_5_extract_arbitrary_strings](https://colab.research.google.com/github/pgahq/instructor-groq-openai-llm-examples/blob/main/1_5_extract_arbitrary_strings.ipynb)
 * [2_extract_data_and_list](https://colab.research.google.com/github/pgahq/instructor-groq-openai-llm-examples/blob/main/2_extract_data_and_list.ipynb)  
 * [3_generate_list](https://colab.research.google.com/github/pgahq/instructor-groq-openai-llm-examples/blob/main/3_generate_list.ipynb)  
 * [4_async_streaming_partial_results](https://colab.research.google.com/github/pgahq/instructor-groq-openai-llm-examples/blob/main/4_async_streaming_partial_results.ipynb)  
