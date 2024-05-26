@@ -332,98 +332,39 @@ class StrategyEvaluation(BaseModel):
 
 text = f"""
 Strategic Partnership Proposal: PGA and Casino Company for the Senior PGA Championship
-Executive Summary
-As the landscape of sports entertainment evolves, so too must the experiences we provide our fans. The PGA of America is poised to revolutionize the Senior PGA Championship through a strategic partnership with a premier casino company. This proposal outlines a comprehensive strategy to combine the sophistication of golf with the excitement of casino entertainment, creating an unparalleled experience for our audience and opening new revenue streams.
 
-1. Introduction
-1.1. Background
-The Senior PGA Championship is one of the most prestigious events in senior golf, attracting a global audience of golf enthusiasts and casual fans alike. The integration of casino entertainment into this revered tournament offers a unique opportunity to enhance fan engagement, attract a diverse demographic, and generate substantial revenue.
+Objectives:
+1. Enhance Fan Engagement and Experience:
+   - Create immersive and interactive experiences to captivate attendees.
+   - Offer exclusive VIP packages combining golf and casino entertainment.
+   - Introduce engaging activities to entertain fans throughout the event.
 
-1.2. Rationale for Partnership
-The casino industry embodies excitement, entertainment, and luxury—qualities that align perfectly with the aspirational and elite image of professional golf. By uniting these two industries, we can create a multifaceted experience that appeals to a broader audience, enhances the event's prestige, and drives financial growth for both partners.
+2. Increase Revenue Streams:
+   - Generate additional revenue through co-branded sponsorship deals.
+   - Enhance ticket sales with premium and VIP packages.
+   - Drive in-event spending through exclusive casino zones and merchandise.
 
-2. Objectives
-2.1 Enhance Fan Engagement and Experience
-Create immersive and interactive experiences that captivate attendees.
-Offer exclusive VIP packages that combine golf and casino entertainment.
-Introduce new and engaging activities to keep fans entertained throughout the event.
-2.2 Increase Revenue Streams
-Generate additional revenue through co-branded sponsorship deals.
-Enhance ticket sales with premium and VIP packages.
-Drive in-event spending through exclusive casino zones and merchandise.
-2.3 Expand Audience Reach
-Attract a new demographic of casino-goers who may not typically engage with golf.
-Increase visibility and appeal through integrated marketing campaigns.
-Utilize casino partnerships to gain access to a broader network of potential attendees.
-2.4 Boost Brand Visibility
-Elevate the PGA brand through high-profile casino associations.
-Increase media coverage and promotional opportunities.
-Enhance the prestige of the Senior PGA Championship by offering elite and diverse entertainment options.
-3. Partnership Details
-3.1 Partner Selection Criteria
-Reputation: Partner with a casino company known for its luxury, quality, and corporate responsibility.
-Infrastructure: Ensure the casino has the capacity to host high-profile events and manage large crowds.
-Alignment: Select a partner whose brand values and target audience align with those of the PGA.
-3.2 Negotiation Points
-Revenue Sharing: Define clear terms for revenue sharing from ticket sales, sponsorships, and in-event spending.
-Branding Rights: Establish guidelines for co-branding, including logo placements, joint marketing, and promotional activities.
-Sponsorship & Activation: Agree on sponsorship tiers, activation rights, and access to PGA players for promotional events.
-4. Fan Engagement Initiatives
-4.1 On-Site Casino Zones
-Gaming Simulators: Install state-of-the-art gaming simulators where fans can experience virtual casino games.
-Lounge Areas: Create luxurious lounge areas for fans to relax, socialize, and enjoy top-tier hospitality.
-Betting Kiosks: Integrate discreet and responsible betting kiosks where fans can place wagers on tournament outcomes.
-4.2 VIP Packages
-Exclusive Access: Offer VIP passes that include backstage access, meet-and-greet opportunities with players, and access to exclusive hospitality suites.
-Golf & Casino Experiences: Develop packages that bundle premium seating at the tournament with casino credits, exclusive shows, and more.
-Luxury Accommodations: Partner with the casino to offer top-tier accommodation packages that blend golf and luxury entertainment experiences.
-4.3 Special Promotions
-Pre-Tournament Events: Host exclusive pre-tournament events at the casino to build excitement and offer fans a sneak peek.
-Charity Golf Games: Organize charity golf games featuring PGA pros, with proceeds benefiting local non-profits.
-Post-Tournament Celebrations: Plan grand post-tournament celebrations, including award ceremonies and gala dinners at the casino.
-5. Marketing Strategy
-5.1 Integrated Marketing Campaign
-Cross-Promotion: Leverage PGA and casino marketing channels to amplify reach and engagement.
-Digital Marketing: Utilize social media, email marketing, and digital ads to promote the event and VIP packages.
-Content Creation: Develop engaging co-branded content, including videos, behind-the-scenes footage, and player interviews.
-5.2 Media Relations
-Press Releases: Issue joint press releases to announce the partnership and highlight key events.
-Media Events: Host media events to provide exclusive previews and interviews with PGA players and casino representatives.
-Broadcast Integration: Integrate casino branding and features into broadcast coverage of the tournament.
-6. Operational Plan
-6.1 Venue Setup
-Logistics: Coordinate with the tournament venue to ensure seamless integration of casino zones and fan engagement areas.
-Security: Implement robust security measures to ensure the safety and enjoyment of all attendees.
-Staffing: Train and deploy staff from both the PGA and the casino to manage various event components.
-6.2 Timeline
-Phase 1: Planning (Months 1-3): Finalize partnership agreements, develop event plans, and draft marketing strategies.
-Phase 2: Marketing (Months 3-6): Launch the integrated marketing campaign, sell early bird packages, and engage media.
-Phase 3: Pre-Event Preparations (Months 6-9): Set up venue, train staff, and finalize operational details.
-Phase 4: Event Week (Month 10): Execute the Senior PGA Championship with all integrated elements.
-Phase 5: Post-Event (Month 11): Conduct a comprehensive review, gather feedback, and prepare reports.
-7. Financial Projections
-7.1 Revenue Streams
-Ticket Sales: Increase ticket sales through VIP and premium packages.
-Sponsorships: Secure co-branded sponsorship deals to drive revenue.
-In-Event Spending: Generate additional income from casino zones, merchandise, and food and beverage sales.
-7.2 Cost Considerations
-Venue Setup: Allocate budget for the setup of casino zones and fan engagement areas.
-Marketing: Invest in integrated marketing campaigns and promotional activities.
-Staffing & Logistics: Cover costs related to staffing, security, and operational logistics.
-7.3 ROI
-Projections: Estimate a 20% increase in total revenue compared to previous years.
-Break-Even Analysis: Conduct a break-even analysis to ensure financial viability and sustainability.
-8. Risk Management
-8.1 Potential Risks
-Regulatory Compliance: Ensure compliance with all legal and regulatory requirements related to casino activities.
-Brand Alignment: Maintain the PGA’s prestigious image by carefully selecting casino partners and activities.
-Fan Concerns: Address potential concerns from traditional golf fans regarding the integration of casino entertainment.
-8.2 Mitigation Strategies
-Compliance Team: Establish a dedicated team to oversee regulatory adherence and mitigate legal risks.
-Selective Partnerships: Partner only with casinos that align with PGA values and quality standards.
-Transparent Communication: Clearly communicate the benefits of the partnership to stakeholders and fans to alleviate concerns.
-9. Conclusion
-The proposed partnership between the PGA and a premier casino company for the Senior PGA Championship represents an innovative approach to elevate fan engagement, diversify revenue streams, and enhance the brand prestige of both partners. By merging the sophistication of golf with the excitement of casino entertainment, we can create a uniquely compelling experience that appeals to a wide range of audiences. This strategic alliance promises significant benefits, driving growth and setting new standards for sports entertainment.
+3. Expand Audience Reach:
+   - Attract a new demographic of casino-goers by increasing visibility and appeal.
+   - Utilize integrated marketing campaigns to reach a broader network of potential attendees.
+   - Address challenges in attracting non-traditional golf fans.
+
+4. Boost Brand Visibility:
+   - Elevate the PGA brand through high-profile casino associations.
+   - Increase media coverage and promotional opportunities.
+   - Offer elite and diverse entertainment options to enhance the prestige of the Senior PGA Championship.
+
+Market Analysis:
+- Market Need Score: Highlight the significant need for innovative fan experiences.
+- Market Size Score: Emphasize the substantial market size and niche nature of senior golf.
+- Competitive Landscape Score: Address the moderately challenging competitive landscape and the need for differentiation.
+
+Overall Strategy:
+- Ensure a well-rounded and promising strategy with significant potential benefits.
+- Address challenges such as competitive landscape, cost management, and operational complexity.
+- Focus on enhancing fan engagement, increasing revenue streams, and positive brand impact.
+
+Improve the proposal text to achieve a higher score next time by incorporating these enhancements.
 """
 
 result = client.chat.completions.create(
@@ -434,6 +375,7 @@ result = client.chat.completions.create(
     )
 
 print(result.model_dump_json(indent=4))
+
 
 
 
